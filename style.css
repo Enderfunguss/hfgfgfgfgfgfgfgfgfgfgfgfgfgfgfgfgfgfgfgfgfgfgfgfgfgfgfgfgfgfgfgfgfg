@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.contents {
+  padding-top: 1%;
+}
+
+#buttonToSaveImg:hover {
+  background-color: darkgreen;
+}
+
+canvas {
+  border: dotted;
+}
